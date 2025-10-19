@@ -1,0 +1,8 @@
+# Git files
+.git
+.gitignore
+
+# IDE and local environment files
+.vscode/
+*.exe
+*.test
